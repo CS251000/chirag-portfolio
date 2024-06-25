@@ -22,7 +22,7 @@ const Home = () => {
               <p className="max-w-[500px] mb-9 text-white/80">
                 I excel at crafting elegant digital experiences and I am proficient in various programming languages and technologies.
                 </p>
-                <div className="flex flex-col xl:flex-row gap-8">
+                <div className="flex flex-col xl:flex-row gap-8 items-center">
                   <Link href="/assets/resume.pdf" target="_blank">
                   <Button variant="outline" size="lg"
                   className="uppercase flex items-center gap-2"
