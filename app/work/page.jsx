@@ -34,14 +34,15 @@ const projects=[
   },
   {
     num:"03",
-    category:'Frontend',
-    title:'MyOnlineMeals',
-    description:'Frontend for ordering food online from local restaurants',
+    category:'Front End',
+    title:'Guess Game',
+    description:'A simple game to guess a number chosen by computer',
     stack:[{name:'HTML'},{name:'CSS'},{name:'JavaScript'}],
-    image:'/assets/projects/onlinemeals.png',
-    live:'https://cs251000.github.io/MyOnlineMeals/',
-    github:'https://github.com/CS251000/MyOnlineMeals',
+    image:'/assets/projects/guess.png',
+    live:'https://cs251000.github.io/guess-the-number/',
+    github:'https://github.com/CS251000/guess-the-number',
   },
+  
   {
     num:"04",
     category:'Full Stack',
@@ -52,6 +53,37 @@ const projects=[
     live:'https://stdio10.onrender.com',
     github:'https://github.com/CS251000/STUDIO-10',
   },
+  {
+    num:"05",
+    category:'Frontend',
+    title:'MyOnlineMeals',
+    description:'Frontend for ordering food online from local restaurants',
+    stack:[{name:'HTML'},{name:'CSS'},{name:'JavaScript'}],
+    image:'/assets/projects/onlinemeals.png',
+    live:'https://cs251000.github.io/MyOnlineMeals/',
+    github:'https://github.com/CS251000/MyOnlineMeals',
+  },
+  {
+    num:"06",
+    category:'Frontend',
+    title:'Pig-Game',
+    description:'Frontend for ordering food online from local restaurants',
+    stack:[{name:'HTML'},{name:'CSS'},{name:'JavaScript'}],
+    image:'/assets/projects/onlinemeals.png',
+    live:'https://cs251000.github.io/MyOnlineMeals/',
+    github:'https://github.com/CS251000/MyOnlineMeals',
+  },
+  {
+    num:"07",
+    category:'Frontend',
+    title:'My-Calendar',
+    description:' Project that allows users to create events and tasks on specific dates.',
+    stack:[{name:'HTML'},{name:'CSS'},{name:'JavaScript'}],
+    image:'/assets/projects/cal.png',
+    live:'https://cs251000.github.io/MyCalendar/',
+    github:'https://github.com/CS251000/MyCalendar',
+  },
+  
 
 ];
 
