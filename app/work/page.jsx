@@ -83,6 +83,16 @@ const projects=[
     live:'https://cs251000.github.io/MyCalendar/',
     github:'https://github.com/CS251000/MyCalendar',
   },
+  {
+    num:"08",
+    category:'Frontend',
+    title:'Utility-Apps',
+    description:'A utility app to store your notes or todos.',
+    stack:[{name:'ReactJS'},{name:'Bootstrap'},{name:'Redux'}],
+    image:'/assets/projects/todo.png',
+    live:'https://utility-apps.vercel.app/',
+    github:'https://github.com/CS251000/TODO-REACT',
+  },
   
 
 ];
