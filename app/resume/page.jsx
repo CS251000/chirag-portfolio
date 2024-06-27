@@ -64,7 +64,7 @@ const experience={
       duration:'2023-2024',
     },
     {
-      company:'Dinesh Hosiery',
+      company:'Studio-10',
       position:'Full Stack Developer',
       duration:'2024-present',
     },
