@@ -14,6 +14,26 @@ const projects=[
   {
     num:"01",
     category:'Full Stack',
+    title:'CodeArena',
+    description:'Online coding platform with Playground,Arena and a Battleground',
+    stack:[{name:'NextJS'},{name:'TailwindCSS'},{name:'NodeJS'}],
+    image:'/assets/projects/codearena.png',
+    live:'https://codearena-five.vercel.app',
+    github:'https://github.com/CS251000/codebrewer',
+  },
+  {
+    num:"02",
+    category:'Full Stack',
+    title:'Studio-10',
+    description:'Inventory management solution for local business',
+    stack:[{name:'ReactJS'},{name:'TailwindCSS'}],
+    image:'/assets/projects/stdio.png',
+    live:'https://studio10.vercel.app',
+    github:'https://github.com/CS251000/STUDIO-10',
+  },
+  {
+    num:"03",
+    category:'Full Stack',
     title:'easily-Job Portal',
     description:'Job Portal allowing users to browse job listings, submit job applications, and manage job postings.',
     stack:[{name:'NodeJs'},{name:'Express'},{name:'EJS-Views'}],
@@ -23,7 +43,7 @@ const projects=[
   },
 
   {
-    num:"02",
+    num:"04",
     category:'Full Stack',
     title:'WareHouse Manager',
     description:'Warehouse Manager allowing users to maintain their products and inventory easily.',
@@ -33,7 +53,7 @@ const projects=[
     github:'https://github.com/CS251000/mvc_project_product',
   },
   {
-    num:"03",
+    num:"05",
     category:'Front End',
     title:'Guess Game',
     description:'A simple game to guess a number chosen by computer',
@@ -43,16 +63,7 @@ const projects=[
     github:'https://github.com/CS251000/guess-the-number',
   },
   
-  {
-    num:"04",
-    category:'Full Stack',
-    title:'Studio-10',
-    description:'Inventory management solution for local business',
-    stack:[{name:'ReactJS'},{name:'TailwindCSS'}],
-    image:'/assets/projects/stdio.png',
-    live:'https://stdio10.onrender.com',
-    github:'https://github.com/CS251000/STUDIO-10',
-  },
+  
 
 ];
 
