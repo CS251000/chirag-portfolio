@@ -53,37 +53,6 @@ const projects=[
     live:'https://stdio10.onrender.com',
     github:'https://github.com/CS251000/STUDIO-10',
   },
-  {
-    num:"05",
-    category:'Frontend',
-    title:'MyOnlineMeals',
-    description:'Frontend for ordering food online from local restaurants',
-    stack:[{name:'HTML'},{name:'CSS'},{name:'JavaScript'}],
-    image:'/assets/projects/onlinemeals.png',
-    live:'https://cs251000.github.io/MyOnlineMeals/',
-    github:'https://github.com/CS251000/MyOnlineMeals',
-  },
-  {
-    num:"06",
-    category:'Frontend',
-    title:'Pig-Game',
-    description:'Just a fun 2 player game made with js html and css focusing on dom manipulation and css design manipulation',
-    stack:[{name:'HTML'},{name:'CSS'},{name:'JavaScript'}],
-    image:'/assets/projects/pig.png',
-    live:'https://cs251000.github.io/Pig-Game/',
-    github:'https://github.com/CS251000/Pig-Game',
-  },
-  {
-    num:"07",
-    category:'Frontend',
-    title:'My-Calendar',
-    description:' Project that allows users to create events and tasks on specific dates.',
-    stack:[{name:'HTML'},{name:'CSS'},{name:'JavaScript'}],
-    image:'/assets/projects/cal.png',
-    live:'https://cs251000.github.io/MyCalendar/',
-    github:'https://github.com/CS251000/MyCalendar',
-  },
-  
 
 ];
 
