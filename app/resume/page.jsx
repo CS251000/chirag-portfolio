@@ -44,6 +44,11 @@ const experience={
    description:'I have gained valuable experience working with various organizations and projects. Here are some highlights of my professional journey:',
    items:[
     {
+      company:'MyNachiketa Foundation',
+      position:'Tech Intern',
+      duration:'Sept 2024 - Oct 2024',
+    },
+    {
       company:'Devcomm',
       position:'President',
       duration:'2024-present',
@@ -68,11 +73,7 @@ const experience={
       position:'Full Stack Developer',
       duration:'2024-present',
     },
-    {
-      company:'E-Commerce startup  ',
-      position:'Freelance Web Developer',
-      duration:'2023-2024',
-    },
+    
 
    ],
 };
