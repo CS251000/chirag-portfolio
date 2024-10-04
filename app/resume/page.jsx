@@ -1,6 +1,6 @@
 "use client";
-import {FaHtml5,FaCss3,FaJs,FaReact,FaNodeJs} from "react-icons/fa";
-import { SiMongodb,SiMysql,SiTailwindcss,SiNextdotjs } from "react-icons/si";
+import {FaHtml5,FaCss3,FaJs,FaReact,FaNodeJs,FaDocker,FaAws,} from "react-icons/fa";
+import { SiMongodb,SiMysql,SiTailwindcss,SiNextdotjs,SiPostgresql } from "react-icons/si";
 import { TbBrandCpp } from "react-icons/tb";
 
 const about={
@@ -139,6 +139,18 @@ const skills={
     {
       icon:<TbBrandCpp/>,
       name:"C++",
+    },
+    {
+      icon:<FaDocker/>,
+      name:"Docker",
+    },
+    {
+      icon:<FaAws/>,
+      name:"Amazon Web Services",
+    },
+    {
+      icon:<SiPostgresql/>,
+      name:"Postgres SQL",
     },
    ]
 };
